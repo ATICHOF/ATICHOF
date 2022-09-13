@@ -20,10 +20,10 @@
 
 <h3 align="left">Reach Me On :</h3>
 <p align="left">
-<a href="https://twitter.com/sof_atiche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sof_atiche" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soufyane atiche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soufyane atiche" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/soufyane-atiche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="soufyane-atiche" height="30" width="40" /></a>
-<a href="https://fb.com/atiche soufiane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atiche soufiane" height="30" width="40" /></a>
+<a href="https://twitter.com/@sof_atiche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sof_atiche" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soufyane-atiche-75060717a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soufyane atiche" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16586138/soufyane-atiche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="soufyane-atiche" height="30" width="40" /></a>
+<a href="https://fb.com/soufyane.atiche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atiche soufiane" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
