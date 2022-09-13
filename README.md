@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ATICHOF 😁</h1>
 <h3 align="center">A Data & Software Engineer and a Passionate Web Developer</h3>
 
-![]([https://github.com/ATICHOF/ATICHOF/public/website1.gif](https://github.com/ATICHOF/ATICHOF/blob/master/public/website1.gif))
+![](https://github.com/ATICHOF/ATICHOF/blob/master/public/website1.gif)
 
 <p align="left"> <a href="https://twitter.com/sof_atiche" target="blank"><img src="https://img.shields.io/twitter/follow/sof_atiche?logo=twitter&style=for-the-badge" alt="sof_atiche" /></a> </p>
 
