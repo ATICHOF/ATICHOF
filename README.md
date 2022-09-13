@@ -4,6 +4,7 @@
 ![](https://github.com/ATICHOF/ATICHOF/blob/master/public/website1.gif)
 
 <p align="left"> <a href="https://twitter.com/sof_atiche" target="blank"><img src="https://img.shields.io/twitter/follow/sof_atiche?logo=twitter&style=for-the-badge" alt="sof_atiche" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atichof&label=Profile%20views&color=0e75b6&style=flat" alt="atichof" /> </p>
 
 - 🔭 I’m currently working on [Scan Me](https://github.com/ATICHOF/ScanMe)
 
