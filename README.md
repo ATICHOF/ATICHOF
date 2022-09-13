@@ -3,10 +3,6 @@
 
 ![](https://github.com/ATICHOF/ATICHOF/public/website1.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atichof&label=Profile%20views&color=0e75b6&style=flat" alt="atichof" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atichof" alt="atichof" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sof_atiche" target="blank"><img src="https://img.shields.io/twitter/follow/sof_atiche?logo=twitter&style=for-the-badge" alt="sof_atiche" /></a> </p>
 
 - 🔭 I’m currently working on [Scan Me](https://github.com/ATICHOF/ScanMe)
