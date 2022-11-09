@@ -11,8 +11,8 @@ A Data & Software Engineer and a Passionate Web Developer
 * 🌍  I'm based in Ouarzazate, Morocco
 * 🖥️  See my portfolio at [atichof](http://atichof.vercel.app/)
 * ✉️  You can contact me at [sof.atiche@gmail.com](mailto:sof.atiche@gmail.com)
-* 🚀  I'm currently working on [ScanMe](http://github.com/ATICHOF/ScanMe)
-* 🧠  I'm learning NodeJs , ExpressJs and Django
+* 🚀  I'm currently working on [Mspot](http://github.com/ATICHOF/Mspot)
+* 🧠  I'm learning Angular and Android Kotlin
 * ⚡  i'm a casual Gamer 🎮
 
 <a href="https://www.twitter.com/sof_atiche" target="_blank" rel="noreferrer"><img
