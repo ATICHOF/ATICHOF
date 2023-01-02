@@ -12,7 +12,7 @@ A Data & Software Engineer and a Passionate Web Developer
 * 🖥️  See my portfolio at [atichof](http://atichof.vercel.app/)
 * ✉️  You can contact me at [sof.atiche@gmail.com](mailto:sof.atiche@gmail.com)
 * 🚀  I'm currently working on [Mspot](http://github.com/ATICHOF/Mspot)
-* 🧠  I'm currently learning GraphQL
+* 🧠  I'm currently learning GraphQL and Tailwindcss
 * ⚡  i'm a casual Gamer 🎮
 
 <a href="https://www.twitter.com/sof_atiche" target="_blank" rel="noreferrer"><img
