@@ -8,11 +8,11 @@ A Data & Software Engineer and a Passionate Web Developer
 
 ![](https://github.com/ATICHOF/ATICHOF/blob/master/public/website1.gif)
 
-* 🌍  I'm based in Ouarzazate, Morocco
+* 🌍  I'm based in Casablanca, Morocco
 * 🖥️  See my portfolio at [atichof](http://atichof.vercel.app/)
 * ✉️  You can contact me at [sof.atiche@gmail.com](mailto:sof.atiche@gmail.com)
 * 🚀  I'm currently working on [Mspot](http://github.com/ATICHOF/Mspot)
-* 🧠  I'm learning Angular and Android Kotlin
+* 🧠  I'm currently learning GraphQL
 * ⚡  i'm a casual Gamer 🎮
 
 <a href="https://www.twitter.com/sof_atiche" target="_blank" rel="noreferrer"><img
