@@ -8,14 +8,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a Data & Software Engineer passionate about web development, based in Casablanca, Morocco 🇲🇦
+I'm a Software Engineer, based in Casablanca, Morocco 🇲🇦
 
 <img align="right" src="https://github-stats-alpha.vercel.app/api?username=ATICHOF&cc=1c1917&tc=0891b2&ic=fff&bc=0891b2" width="400">
 
-- 🔭 Currently working on [Mspot](http://github.com/ATICHOF/Mspot)
-- 🌱 Learning **GraphQL** and **TailwindCSS**
-- 👨‍💻 Portfolio: [atichof.vercel.app](http://atichof.vercel.app)
-- 📫 Reach me at [sof.atiche@gmail.com](mailto:sof.atiche@gmail.com)
+- 🔭 Currently working on [the-ring](http://github.com/ATICHOF/the-ring)
+- 🌱 Learning **React Query** and **ThreeJS**
+- 👨‍💻 Soon My Portfolio at: [atichof.com](http://atichof.com)
+- 📫 Reach me at [atichof@atichof.com](mailto:atichof@atichof.com)
 - 🎮 Fun fact: I'm a casual gamer
 
 <p align="left">
@@ -31,25 +31,21 @@ I'm a Data & Software Engineer passionate about web development, based in Casabl
 <summary>Click to expand!</summary>
 
 ### Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-A8B9CC?style=for-the-badge&logo=Python&logoColor=black)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Material UI](https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -84,7 +80,7 @@ I'm a Data & Software Engineer passionate about web development, based in Casabl
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/soufyane-atiche-75060717a"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/atichof"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/sof_atiche"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/16586138"><img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
   <a href="https://twitch.tv/atichof"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
