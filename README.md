@@ -16,7 +16,6 @@ I'm a Software Engineer, based in Casablanca, Morocco 🇲🇦
 - 🌱 Learning **React Query** and **ThreeJS**
 - 👨‍💻 Soon My Portfolio at: [atichof.com](http://atichof.com)
 - 📫 Reach me at [atichof@atichof.com](mailto:atichof@atichof.com)
-- 🎮 Fun fact: I'm a casual gamer
 
 <p align="left">
   <a href="https://www.twitter.com/sof_atiche"><img src="https://img.shields.io/twitter/follow/sof_atiche?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
@@ -64,17 +63,6 @@ I'm a Software Engineer, based in Casablanca, Morocco 🇲🇦
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ATICHOF&theme=nord&no-frame=true&margin-w=10&column=7" />
-</div>
-
-## 🌟 Top Repositories
-
-<div align="center">
-  <a href="https://github.com/ATICHOF/ScanMe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ATICHOF&repo=ScanMe&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2" />
-  </a>
-  <a href="https://github.com/ATICHOF/insea-workshop-front">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ATICHOF&repo=insea-workshop-front&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2" />
-  </a>
 </div>
 
 ## 🤝 Connect with Me
