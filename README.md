@@ -13,8 +13,8 @@ I'm a Software Engineer, based in Casablanca, Morocco 🇲🇦
 <img align="right" src="https://github-stats-alpha.vercel.app/api?username=ATICHOF&cc=1c1917&tc=0891b2&ic=fff&bc=0891b2" width="400">
 
 - 🔭 Currently working on [the-ring](http://github.com/ATICHOF/the-ring)
-- 🌱 Learning **React Query** and **ThreeJS**
-- 👨‍💻 Soon My Portfolio at: [atichof.com](http://atichof.com)
+- 🌱 I am Learning **React Query** and **ThreeJS**
+- 👨‍💻 Check My Portfolio at: [atichof.com](http://atichof.com)
 - 📫 Reach me at [atichof@atichof.com](mailto:atichof@atichof.com)
 
 <p align="left">
