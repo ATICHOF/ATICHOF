@@ -57,8 +57,8 @@ I'm a Software Engineer, based in Casablanca, Morocco 🇲🇦
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATICHOF&theme=transparent&hide_border=true&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&sideNums=0891b2&currStreakLabel=0891b2&sideLabels=0891b2&dates=ffffff" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ATICHOF&show_icons=true&bg_color=00000000&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATICHOF&theme=transparent&hide_border=true&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&sideNums=0891b2&currStreakLabel=0891b2&sideLabels=0891b2&dates=ffffff" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ATICHOF&show_icons=true&bg_color=00000000&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2" width="50%" />
 </div>
 
 <div align="center">
