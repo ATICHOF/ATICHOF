@@ -3,30 +3,45 @@
 
   <br/>
 
-  <img src="https://raw.githubusercontent.com/ATICHOF/ATICHOF/master/public/full-stack-development.gif" width="600" alt="Full Stack Development" />
+  <img src="https://raw.githubusercontent.com/ATICHOF/ATICHOF/master/public/full-stack-development.gif" width="600" alt="Full Stack Development" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 
   <br/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Crafting+Digital+Experiences;Solving+Complex+Problems;Full-Stack+Architect;AR+%26+Mobile+Explorer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Crafting+Digital+Experiences;Solving+Complex+Problems;Full-Stack+Architect;AR+%26+Mobile+Explorer;AI+%26+Automation+Enthusiast)](https://git.io/typing-svg)
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ATICHOF&theme=darkhub&no-frame=true&margin-w=15&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ATICHOF&theme=onedark&no-frame=true&margin-w=15&column=7" />
   </p>
 </div>
 
 ---
 
-### 🚀 The Mission
+### ✨ My Creative Journey
 
-I don't just write code; I build **products that solve problems**. With 4+ years of experience, I bridge the gap between complex backend architectures and delightful, high-performance user interfaces. My approach is rooted in **clean code**, **scalable systems**, and **user-centric design**.
-
-- 🏢 **Currently:** Scaling **RentalEye** at [Experteye](https://experteye.com), optimizing real-time data for the automotive industry.
-- 📱 **Impact:** Architected **[The Ring](https://thering.ai)**, a community-driven platform for event discovery.
-- 💡 **Passion:** Exploring the intersection of **Augmented Reality**, and **AI**.
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        Hey there! 👋 I'm <b>Soufyane</b>, a Software Engineer who loves turning coffee into elegant code. With over <b>4 years of experience</b>, I've navigated through various tech landscapes—from building high-scale SaaS platforms to crafting immersive AR experiences.
+      </p>
+      <p>
+        I believe in <b>Engineering with Heart</b>—it's not just about the lines of code, but the impact they have on people's lives. 🌟
+      </p>
+      <ul>
+        <li>🚀 <b>Currently Scaling:</b> <a href="https://experteye.com">RentalEye</a> @ Experteye</li>
+        <li>📱 <b>Community Impact:</b> Built <a href="https://thering.ai">The Ring</a> – Connecting people through local discovery.</li>
+        <li>🧠 <b>AI Obsession:</b> Experimenting with <b>RAG</b>, <b>Autonomous Agents</b>, and <b>MCP</b>.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=400&q=80" alt="Code Art" style="border-radius: 15px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ My Arsenal
+### 🛠️ My Toolbox
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,go,java,spring,py,mongodb,postgres,supabase,graphql,tailwind,redux,docker,azure,gcp,figma" />
@@ -34,43 +49,24 @@ I don't just write code; I build **products that solve problems**. With 4+ years
 
 <br />
 
-<details open>
-<summary><b>Engineering & AI Capabilities</b></summary>
-
-- **AI & Intelligent Systems:** LLM Integration (OpenAI, Claude, Gemini), RAG (Retrieval-Augmented Generation), AI Content Moderation (Text/Image), Model Context Protocol (MCP).
-- **Automation & Agents:** Agent Orchestration, Autonomous Workflows, LangChain, Tool-Use Automation.
-- **Frontend Mastery:** React, Next.js (App Router), TypeScript, Tailwind CSS, Framer Motion.
-- **Backend Excellence:** Node.js, Go (Microservices), Java Spring Boot, GraphQL, Python (FastAPI).
-- **Mobile & AR:** React Native, Expo, Viro React (Augmented Reality).
-- **Cloud & DevOps:** Azure, GCP, Docker, Kubernetes (K8s), CI/CD (GitHub Actions).
-</details>
-
----
-
-### 🤖 AI-First Workflow
-
-I leverage the latest in AI-assisted engineering to build faster and smarter:
-
-- **AI IDEs:** `Cursor` `Anti-Gravity`
-- **AI Shells & Agents:** `Gemini CLI` `Claude Code`
-- **Orchestration:** Building and managing autonomous agents for complex task automation.
-
----
-
-### 📽️ Featured Work
-
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" align="center">
-        <h4>🏎️ RentalEye (SaaS)</h4>
-        <img src="https://raw.githubusercontent.com/ATICHOF/ATICHOF/master/public/website1.gif" width="100%" style="border-radius: 10px;" />
-        <p><i>High-performance dashboard for automotive competitive intelligence.</i></p>
+      <td valign="top" width="50%">
+        <h4>🌐 Full-Stack & Architecture</h4>
+        <ul>
+          <li><b>Frontend:</b> React, Next.js, TS, Framer Motion</li>
+          <li><b>Backend:</b> Node.js, Go, Spring Boot, FastAPI</li>
+          <li><b>Cloud:</b> Azure, GCP, Docker, Kubernetes</li>
+        </ul>
       </td>
-      <td width="50%" align="center">
-        <h4>📱 The Ring (Mobile)</h4>
-        <img src="https://raw.githubusercontent.com/ATICHOF/ATICHOF/master/public/full-stack-development.gif" width="100%" style="border-radius: 10px;" />
-        <p><i>Cross-platform social app with real-time event discovery.</i></p>
+      <td valign="top" width="50%">
+        <h4>🤖 AI & Future Tech</h4>
+        <ul>
+          <li><b>AI:</b> LLM Integration, RAG, MCP, LangChain</li>
+          <li><b>Automation:</b> Agent Orchestration, Autonomous Workflows</li>
+          <li><b>Mobile/AR:</b> React Native, Viro React (AR)</li>
+        </ul>
       </td>
     </tr>
   </table>
@@ -78,7 +74,45 @@ I leverage the latest in AI-assisted engineering to build faster and smarter:
 
 ---
 
-### 📊 Engineering Stats
+### ⚡ AI-Powered Workflow
+
+I don't just use AI; I orchestrate it to push the boundaries of what's possible:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Copilot-24292e?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+</div>
+
+---
+
+### 📽️ Featured Creations
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://atichof.com">
+          <img src="https://raw.githubusercontent.com/ATICHOF/ATICHOF/master/public/website1.gif" width="100%" style="border-radius: 15px;" />
+        </a>
+        <br/><b>🏎️ RentalEye</b>
+        <p><small>SaaS for Automotive Intelligence</small></p>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://thering.ai">
+          <img src="https://raw.githubusercontent.com/ATICHOF/ATICHOF/master/public/full-stack-development.gif" width="100%" style="border-radius: 15px;" />
+        </a>
+        <br/><b>📱 The Ring</b>
+        <p><small>Social Event Discovery App</small></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📈 The Numbers
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ATICHOF&show_icons=true&theme=tokyonight&hide_border=true&title_color=0891b2&icon_color=0891b2" height="170" />
@@ -92,9 +126,9 @@ I leverage the latest in AI-assisted engineering to build faster and smarter:
 
 ---
 
-### 🤝 Let's Build Something Together
+### 🤝 Let's Connect!
 
-I'm always open to discussing **innovative projects**, **open-source collaborations**, or **technical challenges**.
+I love meeting new people and collaborating on **bold ideas**. Whether it's about AI, high-scale architecture, or just a virtual coffee—feel free to reach out!
 
 <div align="center">
   <a href="https://atichof.com" target="_blank">
