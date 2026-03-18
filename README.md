@@ -10,7 +10,9 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Crafting+Digital+Experiences;Solving+Complex+Problems;Full-Stack+Architect;AR+%26+Mobile+Explorer;AI+%26+Automation+Enthusiast)](https://git.io/typing-svg)
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ATICHOF&theme=radical&no-frame=true&column=7" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ATICHOF&theme=radical&no-frame=true&margin-w=15&column=7" alt="ATICHOF Trophies" />
+    </a>
   </p>
 </div>
 
