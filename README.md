@@ -10,7 +10,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Crafting+Digital+Experiences;Solving+Complex+Problems;Full-Stack+Architect;AR+%26+Mobile+Explorer;AI+%26+Automation+Enthusiast)](https://git.io/typing-svg)
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ATICHOF&theme=onedark&no-frame=true&margin-w=15&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=atichof&theme=radical&no-frame=true&column=7" />
   </p>
 </div>
 
@@ -94,17 +94,17 @@ I don't just use AI; I orchestrate it to push the boundaries of what's possible:
     <tr>
       <td width="50%" align="center">
         <a href="https://atichof.com">
-          <img src="https://raw.githubusercontent.com/ATICHOF/ATICHOF/master/public/website1.gif" width="100%" style="border-radius: 15px;" />
+          <img src="https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=600&q=80" width="100%" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
         </a>
-        <br/><b>🏎️ RentalEye</b>
-        <p><small>SaaS for Automotive Intelligence</small></p>
+        <br/><br/><b>🏎️ RentalEye</b>
+        <p><small>High-Scale Automotive SaaS Platform</small></p>
       </td>
       <td width="50%" align="center">
         <a href="https://thering.ai">
-          <img src="https://raw.githubusercontent.com/ATICHOF/ATICHOF/master/public/full-stack-development.gif" width="100%" style="border-radius: 15px;" />
+          <img src="https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&w=600&q=80" width="100%" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
         </a>
-        <br/><b>📱 The Ring</b>
-        <p><small>Social Event Discovery App</small></p>
+        <br/><br/><b>📱 The Ring</b>
+        <p><small>AI-Powered Social Discovery Ecosystem</small></p>
       </td>
     </tr>
   </table>
