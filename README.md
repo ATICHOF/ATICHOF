@@ -1,154 +1,54 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=250&section=header&text=SOUFYANE%20ATICHE&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+## Soufyane Atiche
 
-  <br/>
+**Lead Software Engineer** · AI & full-stack systems · Casablanca, Morocco
 
-  <img src="https://raw.githubusercontent.com/ATICHOF/ATICHOF/master/public/full-stack-development.gif" width="600" alt="Full Stack Development" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+I design and ship data-intensive platforms and AI-native products end to end, from schema and APIs to interfaces and production operations. Over the last four years I've led delivery across SaaS, AI, commerce, and fintech, usually with full technical ownership.
 
-  <br/>
+My current focus is **multi-agent systems, RAG pipelines, and autonomous workflows** that run in production and stay maintainable.
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Crafting+Digital+Experiences;Solving+Complex+Problems;Full-Stack+Architect;AR+%26+Mobile+Explorer;AI+%26+Automation+Enthusiast)](https://git.io/typing-svg)
-
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ATICHOF&theme=radical&no-frame=true&margin-w=15&column=7" alt="ATICHOF Trophies" />
-    </a>
-  </p>
-</div>
+[Portfolio](https://atichof.com) · [LinkedIn](https://www.linkedin.com/in/atichof/) · [Email](mailto:atichof@atichof.com) · [X / Twitter](https://twitter.com/sof_atiche)
 
 ---
 
-### ✨ My Creative Journey
+### Experience
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <p>
-        Hey there! 👋 I'm <b>Soufyane</b>, a Software Engineer who loves turning coffee into elegant code. With over <b>4 years of experience</b>, I've navigated through various tech landscapes—from building high-scale SaaS platforms to crafting immersive AR experiences.
-      </p>
-      <p>
-        I believe in <b>Engineering with Heart</b>—it's not just about the lines of code, but the impact they have on people's lives. 🌟
-      </p>
-      <ul>
-        <li>🚀 <b>Currently Scaling:</b> <a href="https://experteye.com">RentalEye</a> @ Experteye</li>
-        <li>📱 <b>Community Impact:</b> Built <a href="https://thering.ai">The Ring</a> – Connecting people through local discovery.</li>
-        <li>🧠 <b>AI Obsession:</b> Experimenting with <b>RAG</b>, <b>Autonomous Agents</b>, and <b>MCP</b>.</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=400&q=80" alt="Code Art" style="border-radius: 15px;" />
-    </td>
-  </tr>
-</table>
+**Lead Full-Stack Developer · [Experteye](https://experteye.com)** · *Dec 2022 – present*
+- Scaled **RentalEye** into a competitive-intelligence platform that processes and scores millions of data points daily for enterprise automotive-rental clients.
+- Architected a high-throughput **Go** ingestion microservice and led the frontend migration from legacy React to **Next.js**.
+- Own production availability across **Azure** and **GCP**: monitoring, incident response, and infrastructure operations.
+
+**Lead Developer (Freelance) · [The Ring](https://thering.ai)** · *2024 – 2026*
+- Shipped a cross-platform social discovery app to the [App Store](https://apps.apple.com/ma/app/the-ring-create-celebrate/id6744864878) and [Google Play](https://play.google.com/store/apps/details?id=ai.thering.app), owning the product from design to deployment.
+- Built self-healing AI enrichment pipelines that detect failures, diagnose root causes, and apply corrections without manual intervention.
+- Deployed an AI moderation layer for user-generated text and images.
+
+**Full-Stack Developer (Freelance) · [Chocochino](https://chocochino.ma)** · *2024 – present*
+- Architecting **ChocoDelivery**, a real-time delivery platform with order tracking, driver assignment, and fleet management.
+- Building an AI recommendation engine and an autonomous support agent that resolves tickets and escalates edge cases.
+
+**Full-Stack Developer (Freelance) · AfricaX, Doc Studio** · *2025*
+- Delivered an AI document-processing platform that extracts structured data from invoices, forms, and contracts with batch OCR.
 
 ---
 
-### 🛠️ My Toolbox
+### Selected AI work
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,go,java,spring,py,mongodb,postgres,supabase,graphql,tailwind,redux,docker,azure,gcp,figma" />
-</div>
-
-<br />
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td valign="top" width="50%">
-        <h4>🌐 Full-Stack & Architecture</h4>
-        <ul>
-          <li><b>Frontend:</b> React, Next.js, TS, Framer Motion</li>
-          <li><b>Backend:</b> Node.js, Go, Spring Boot, FastAPI</li>
-          <li><b>Cloud:</b> Azure, GCP, Docker, Kubernetes</li>
-        </ul>
-      </td>
-      <td valign="top" width="50%">
-        <h4>🤖 AI & Future Tech</h4>
-        <ul>
-          <li><b>AI:</b> LLM Integration, RAG, MCP, LangChain</li>
-          <li><b>Automation:</b> Agent Orchestration, Autonomous Workflows</li>
-          <li><b>Mobile/AR:</b> React Native, Viro React (AR)</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+| Project | What it does | Stack |
+|---|---|---|
+| **CVDesigner** | Multi-agent platform (analysis, research, generation, scoring) that tailors ATS-optimized CVs to a role while staying faithful to real experience. | Python, Agno, Pydantic, Gemini, pgvector |
+| **AI Tutor** | Curriculum-grounded RAG that turns official course material into adaptive lessons and quizzes. | FastAPI, Next.js, pgvector, Supabase |
 
 ---
 
-### ⚡ AI-Powered Workflow
+### Technical focus
 
-I don't just use AI; I orchestrate it to push the boundaries of what's possible:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Copilot-24292e?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-</div>
+| Area | Tools |
+|---|---|
+| **AI & agents** | LLM integration (OpenAI, Anthropic, Gemini), RAG, pgvector, multi-agent orchestration, function calling, structured output, evaluation, MCP |
+| **Backend** | Go, Node.js (NestJS, Express), Spring Boot, FastAPI, GraphQL, PostgreSQL / PostGIS, Prisma, Redis |
+| **Frontend & mobile** | TypeScript, React, Next.js, Tailwind CSS, React Query, React Native, Expo |
+| **Cloud & ops** | Azure, GCP, Docker, Kubernetes, CI/CD, Nginx, Prometheus, Grafana, Supabase |
 
 ---
 
-### 📽️ Featured Creations
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://atichof.com">
-          <img src="https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=600&h=400&q=80" width="100%" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
-        </a>
-        <br/><br/><b>🏎️ RentalEye</b>
-        <p><small>High-Scale Automotive SaaS Platform</small></p>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://thering.ai">
-          <img src="https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&w=600&h=400&q=80" width="100%" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
-        </a>
-        <br/><br/><b>📱 The Ring</b>
-        <p><small>AI-Powered Social Discovery Ecosystem</small></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📈 The Numbers
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATICHOF&show_icons=true&theme=tokyonight&hide_border=true&title_color=0891b2&icon_color=0891b2" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATICHOF&theme=tokyonight&hide_border=true&stroke=0891b2&ring=0891b2&fire=0891b2" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ATICHOF&theme=tokyonight" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ATICHOF&theme=tokyonight" height="170" />
-</div>
-
----
-
-### 🤝 Let's Connect!
-
-I love meeting new people and collaborating on **bold ideas**. Whether it's about AI, high-scale architecture, or just a virtual coffee—feel free to reach out!
-
-<div align="center">
-  <a href="https://atichof.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/atichof" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:atichof@atichof.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/sof_atiche" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" width="100%" />
-</div>
+<sub>Most of my work lives in private client repositories. Happy to walk through architecture and code on request.</sub>
