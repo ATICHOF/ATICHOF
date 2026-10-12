@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320" role="img" aria-label="ChocoDelivery">
+  <style>
+    .pulse { animation: pulse 2.2s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .3; } }
+    .bar { transform-box: fill-box; transform-origin: bottom; animation: grow 2.4s ease-in-out infinite; }
+    .b2 { animation-delay: .3s; } .b3 { animation-delay: .6s; } .b4 { animation-delay: .9s; }
+    @keyframes grow { 0%, 100% { transform: scaleY(1); } 50% { transform: scaleY(.8); } }
+    .ring { transform-box: fill-box; transform-origin: center; animation: ripple 3s ease-in-out infinite; }
+    .r2 { animation-delay: .4s; } .r3 { animation-delay: .8s; }
+    @keyframes ripple { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.08); } }
+    .route { animation: dash 2s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -24; } }
+    .flow line { stroke-dasharray: 3 5; animation: dash 1.6s linear infinite; }
+</style>
+  <rect width="600" height="320" rx="18" fill="#0B2540"/>
+  <rect x="0.5" y="0.5" width="599" height="319" rx="18" fill="none" stroke="#5EC4D6" stroke-opacity=".18"/>
+
+  <g>
+    <text x="40" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2.5" fill="#5EC4D6">REAL-TIME · LOGISTICS</text>
+    <text x="40" y="106" font-family="Georgia, 'Times New Roman', Times, serif" font-size="44" fill="#F5F1EA">ChocoDelivery<tspan fill="#E07B39">.</tspan></text>
+  </g>
+  <text x="40" y="150" font-family="Georgia, 'Times New Roman', Times, serif" font-size="18" fill="#B9C4D0"><tspan x="40" dy="0">Delivery platform with live tracking,</tspan>
+<tspan x="40" dy="26">fleet management, recommendations and</tspan>
+<tspan x="40" dy="26">an autonomous support agent.</tspan></text>
+  <g>
+    <rect x="40" y="244" width="69" height="28" rx="14" fill="none" stroke="#5EC4D6" stroke-opacity=".45"/>
+    <text x="74" y="262.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#CFE8EE">NestJS</text>
+    <rect x="117" y="244" width="38" height="28" rx="14" fill="none" stroke="#5EC4D6" stroke-opacity=".45"/>
+    <text x="136" y="262.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#CFE8EE">Go</text>
+    <rect x="162" y="244" width="77" height="28" rx="14" fill="none" stroke="#5EC4D6" stroke-opacity=".45"/>
+    <text x="201" y="262.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#CFE8EE">PostGIS</text>
+    <rect x="247" y="244" width="61" height="28" rx="14" fill="none" stroke="#5EC4D6" stroke-opacity=".45"/>
+    <text x="278" y="262.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#CFE8EE">Redis</text>
+    <rect x="316" y="244" width="69" height="28" rx="14" fill="none" stroke="#5EC4D6" stroke-opacity=".45"/>
+    <text x="350" y="262.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#CFE8EE">OpenAI</text>
+  </g>
+
+  <g transform="translate(446 34)">
+      <path d="M12 104 C 40 104, 30 60, 60 60 S 82 16, 108 16" fill="none" stroke="#5EC4D6" stroke-width="2.5" stroke-dasharray="5 7" class="route"/>
+      <circle cx="12" cy="104" r="6" fill="#5EC4D6"/>
+      <circle r="6" fill="#E07B39">
+        <animateMotion dur="4s" repeatCount="indefinite" path="M12 104 C 40 104, 30 60, 60 60 S 82 16, 108 16"/>
+      </circle>
+      <path d="M108 4 a10 10 0 0 1 10 10 c0 8 -10 18 -10 18 s-10 -10 -10 -18 a10 10 0 0 1 10 -10z" fill="none" stroke="#F5F1EA" stroke-width="2"/>
+  </g>
+  <g>
+    <circle cx="556" cy="290" r="4" fill="#E07B39" class="pulse"/>
+    <text x="544" y="294" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="2" fill="#8A99AB">IN PRODUCTION</text>
+  </g>
+</svg>

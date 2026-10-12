@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Soufyane Atiche, Lead Software Engineer">
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; letter-spacing: 3px; }
+    .serif { font-family: Georgia, 'Times New Roman', Times, serif; }
+    .pulse { animation: pulse 2.2s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .35; } }
+    .edge { stroke-dasharray: 4 7; animation: flow 3s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -44; } }
+    .node { animation: glow 3.6s ease-in-out infinite; }
+    .n2 { animation-delay: .6s; } .n3 { animation-delay: 1.2s; } .n4 { animation-delay: 1.8s; } .n5 { animation-delay: 2.4s; }
+    @keyframes glow { 0%, 100% { fill: #F5F1EA; } 50% { fill: #CFE8EE; } }
+  </style>
+
+  <rect width="1200" height="340" rx="20" fill="#F5F1EA"/>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="20" fill="none" stroke="#0B2540" stroke-opacity=".08"/>
+
+  <!-- top meta row -->
+  <text x="72" y="62" class="mono" font-size="14" fill="#4B5563">ATICHOF</text>
+  <text x="1128" y="62" class="mono" font-size="14" fill="#4B5563" text-anchor="end">CASABLANCA · REMOTE</text>
+
+  <!-- name + role -->
+  <text x="68" y="170" class="serif" font-size="78" fill="#0B2540">Soufyane Atiche<tspan fill="#E07B39">.</tspan></text>
+  <line x1="72" y1="196" x2="592" y2="196" stroke="#0E7490" stroke-width="2"/>
+  <text x="72" y="236" class="mono" font-size="17" fill="#0E7490">LEAD SOFTWARE ENGINEER · AI &amp; FULL-STACK</text>
+
+  <!-- status -->
+  <g>
+    <circle cx="78" cy="284" r="5" fill="#E07B39" class="pulse"/>
+    <text x="94" y="289" class="mono" font-size="13" fill="#4B5563">MULTI-AGENT SYSTEMS · RAG · SHIPPED PRODUCTS</text>
+  </g>
+
+  <!-- agent graph motif -->
+  <g transform="translate(760 40)">
+    <g stroke="#0E7490" stroke-width="1.6" fill="none" stroke-linecap="round">
+      <path class="edge" d="M180 130 L60 60"/>
+      <path class="edge" d="M180 130 L310 52"/>
+      <path class="edge" d="M180 130 L80 220"/>
+      <path class="edge" d="M180 130 L300 220"/>
+      <path class="edge" d="M60 60 L310 52" stroke-opacity=".35"/>
+      <path class="edge" d="M80 220 L300 220" stroke-opacity=".35"/>
+    </g>
+    <circle cx="180" cy="130" r="30" fill="#0B2540"/>
+    <text x="180" y="135" text-anchor="middle" class="mono" font-size="12" fill="#F5F1EA" letter-spacing="1">LLM</text>
+    <g stroke="#0B2540" stroke-width="1.6" fill="#F5F1EA">
+      <circle cx="60" cy="60" r="20" class="node"/>
+      <circle cx="310" cy="52" r="20" class="node n2"/>
+      <circle cx="80" cy="220" r="20" class="node n3"/>
+      <circle cx="300" cy="220" r="20" class="node n4"/>
+    </g>
+    <g class="mono" font-size="10" fill="#0B2540" text-anchor="middle" letter-spacing="1">
+      <text x="60" y="64">RAG</text>
+      <text x="310" y="56">API</text>
+      <text x="80" y="224">DB</text>
+      <text x="300" y="224">MCP</text>
+    </g>
+  </g>
+</svg>

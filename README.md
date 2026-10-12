@@ -1,54 +1,57 @@
-## Soufyane Atiche
+<a href="https://atichof.com">
+  <img src="./assets/header.svg" width="100%" alt="Soufyane Atiche — Lead Software Engineer" />
+</a>
 
-**Lead Software Engineer** · AI & full-stack systems · Casablanca, Morocco
+<div align="center">
 
-I design and ship data-intensive platforms and AI-native products end to end, from schema and APIs to interfaces and production operations. Over the last four years I've led delivery across SaaS, AI, commerce, and fintech, usually with full technical ownership.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=2A9DB5&center=true&vCenter=true&width=640&lines=Building+AI-native+products%2C+end+to+end;Multi-agent+systems+%C2%B7+RAG+%C2%B7+MCP;From+the+database+to+the+pixel)](https://atichof.com)
 
-My current focus is **multi-agent systems, RAG pipelines, and autonomous workflows** that run in production and stay maintainable.
+</div>
 
-[Portfolio](https://atichof.com) · [LinkedIn](https://www.linkedin.com/in/atichof/) · [Email](mailto:atichof@atichof.com) · [X / Twitter](https://twitter.com/sof_atiche)
+<br />
 
----
+### Stack
 
-### Experience
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,py,java,nodejs,nestjs,spring,fastapi,graphql,postgres,redis,prisma&perline=12" alt="Languages and backend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,docker,kubernetes,azure,gcp,nginx,prometheus,grafana,githubactions&perline=12" alt="Frontend and infrastructure" />
+</p>
 
-**Lead Full-Stack Developer · [Experteye](https://experteye.com)** · *Dec 2022 – present*
-- Scaled **RentalEye** into a competitive-intelligence platform that processes and scores millions of data points daily for enterprise automotive-rental clients.
-- Architected a high-throughput **Go** ingestion microservice and led the frontend migration from legacy React to **Next.js**.
-- Own production availability across **Azure** and **GCP**: monitoring, incident response, and infrastructure operations.
+<p align="center">
+  <img src="https://img.shields.io/badge/Anthropic-0B2540?style=flat-square&logo=anthropic&logoColor=F5F1EA" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Gemini-0B2540?style=flat-square&logo=googlegemini&logoColor=F5F1EA" alt="Gemini" />
+  <img src="https://img.shields.io/badge/OpenAI-0B2540?style=flat-square" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/MCP-0B2540?style=flat-square&logo=modelcontextprotocol&logoColor=F5F1EA" alt="MCP" />
+  <img src="https://img.shields.io/badge/LangChain-0B2540?style=flat-square&logo=langchain&logoColor=F5F1EA" alt="LangChain" />
+  <img src="https://img.shields.io/badge/pgvector-0B2540?style=flat-square&logo=postgresql&logoColor=F5F1EA" alt="pgvector" />
+  <img src="https://img.shields.io/badge/Agno-0B2540?style=flat-square" alt="Agno" />
+</p>
 
-**Lead Developer (Freelance) · [The Ring](https://thering.ai)** · *2024 – 2026*
-- Shipped a cross-platform social discovery app to the [App Store](https://apps.apple.com/ma/app/the-ring-create-celebrate/id6744864878) and [Google Play](https://play.google.com/store/apps/details?id=ai.thering.app), owning the product from design to deployment.
-- Built self-healing AI enrichment pipelines that detect failures, diagnose root causes, and apply corrections without manual intervention.
-- Deployed an AI moderation layer for user-generated text and images.
+<br />
 
-**Full-Stack Developer (Freelance) · [Chocochino](https://chocochino.ma)** · *2024 – present*
-- Architecting **ChocoDelivery**, a real-time delivery platform with order tracking, driver assignment, and fleet management.
-- Building an AI recommendation engine and an autonomous support agent that resolves tickets and escalates edge cases.
+### Selected work
 
-**Full-Stack Developer (Freelance) · AfricaX, Doc Studio** · *2025*
-- Delivered an AI document-processing platform that extracts structured data from invoices, forms, and contracts with batch OCR.
+<p align="center">
+  <a href="https://experteye.com"><img src="./assets/rentaleye.svg" width="49%" alt="RentalEye" /></a>
+  <a href="https://thering.ai"><img src="./assets/the-ring.svg" width="49%" alt="The Ring" /></a>
+  <a href="https://chocochino.ma"><img src="./assets/chocodelivery.svg" width="49%" alt="ChocoDelivery" /></a>
+  <a href="https://atichof.com"><img src="./assets/cvdesigner.svg" width="49%" alt="CVDesigner" /></a>
+</p>
 
----
+<br />
 
-### Selected AI work
+### Activity
 
-| Project | What it does | Stack |
-|---|---|---|
-| **CVDesigner** | Multi-agent platform (analysis, research, generation, scoring) that tailors ATS-optimized CVs to a role while staying faithful to real experience. | Python, Agno, Pydantic, Gemini, pgvector |
-| **AI Tutor** | Curriculum-grounded RAG that turns official course material into adaptive lessons and quizzes. | FastAPI, Next.js, pgvector, Supabase |
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ATICHOF&background=0B2540&border_radius=18&hide_border=true&ring=E07B39&fire=E07B39&currStreakNum=F5F1EA&sideNums=F5F1EA&currStreakLabel=5EC4D6&sideLabels=5EC4D6&dates=8A99AB&stroke=1E3A5F" width="600" alt="GitHub streak" />
+</p>
 
----
+<br />
 
-### Technical focus
-
-| Area | Tools |
-|---|---|
-| **AI & agents** | LLM integration (OpenAI, Anthropic, Gemini), RAG, pgvector, multi-agent orchestration, function calling, structured output, evaluation, MCP |
-| **Backend** | Go, Node.js (NestJS, Express), Spring Boot, FastAPI, GraphQL, PostgreSQL / PostGIS, Prisma, Redis |
-| **Frontend & mobile** | TypeScript, React, Next.js, Tailwind CSS, React Query, React Native, Expo |
-| **Cloud & ops** | Azure, GCP, Docker, Kubernetes, CI/CD, Nginx, Prometheus, Grafana, Supabase |
-
----
-
-<sub>Most of my work lives in private client repositories. Happy to walk through architecture and code on request.</sub>
+<p align="center">
+  <a href="https://atichof.com"><img src="https://img.shields.io/badge/Portfolio-atichof.com-0B2540?style=for-the-badge&labelColor=E07B39" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/atichof/"><img src="https://img.shields.io/badge/LinkedIn-0B2540?style=for-the-badge&logo=linkedin&logoColor=F5F1EA" alt="LinkedIn" /></a>
+  <a href="mailto:atichof@atichof.com"><img src="https://img.shields.io/badge/Email-0B2540?style=for-the-badge" alt="Email" /></a>
+  <a href="https://twitter.com/sof_atiche"><img src="https://img.shields.io/badge/X-0B2540?style=for-the-badge&logo=x&logoColor=F5F1EA" alt="X" /></a>
+</p>

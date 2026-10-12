@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320" role="img" aria-label="CVDesigner">
+  <style>
+    .pulse { animation: pulse 2.2s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .3; } }
+    .bar { transform-box: fill-box; transform-origin: bottom; animation: grow 2.4s ease-in-out infinite; }
+    .b2 { animation-delay: .3s; } .b3 { animation-delay: .6s; } .b4 { animation-delay: .9s; }
+    @keyframes grow { 0%, 100% { transform: scaleY(1); } 50% { transform: scaleY(.8); } }
+    .ring { transform-box: fill-box; transform-origin: center; animation: ripple 3s ease-in-out infinite; }
+    .r2 { animation-delay: .4s; } .r3 { animation-delay: .8s; }
+    @keyframes ripple { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.08); } }
+    .route { animation: dash 2s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -24; } }
+    .flow line { stroke-dasharray: 3 5; animation: dash 1.6s linear infinite; }
+</style>
+  <rect width="600" height="320" rx="18" fill="#0B2540"/>
+  <rect x="0.5" y="0.5" width="599" height="319" rx="18" fill="none" stroke="#5EC4D6" stroke-opacity=".18"/>
+
+  <g>
+    <text x="40" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2.5" fill="#5EC4D6">MULTI-AGENT · RAG</text>
+    <text x="40" y="106" font-family="Georgia, 'Times New Roman', Times, serif" font-size="44" fill="#F5F1EA">CVDesigner<tspan fill="#E07B39">.</tspan></text>
+  </g>
+  <text x="40" y="150" font-family="Georgia, 'Times New Roman', Times, serif" font-size="18" fill="#B9C4D0"><tspan x="40" dy="0">Four cooperating agents research a role</tspan>
+<tspan x="40" dy="26">and tailor an ATS-ready CV, grounded</tspan>
+<tspan x="40" dy="26">in the candidate&#x27;s real experience.</tspan></text>
+  <g>
+    <rect x="40" y="244" width="69" height="28" rx="14" fill="none" stroke="#5EC4D6" stroke-opacity=".45"/>
+    <text x="74" y="262.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#CFE8EE">Python</text>
+    <rect x="117" y="244" width="53" height="28" rx="14" fill="none" stroke="#5EC4D6" stroke-opacity=".45"/>
+    <text x="143" y="262.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#CFE8EE">Agno</text>
+    <rect x="178" y="244" width="84" height="28" rx="14" fill="none" stroke="#5EC4D6" stroke-opacity=".45"/>
+    <text x="220" y="262.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#CFE8EE">pgvector</text>
+    <rect x="270" y="244" width="69" height="28" rx="14" fill="none" stroke="#5EC4D6" stroke-opacity=".45"/>
+    <text x="305" y="262.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#CFE8EE">Gemini</text>
+    <rect x="347" y="244" width="77" height="28" rx="14" fill="none" stroke="#5EC4D6" stroke-opacity=".45"/>
+    <text x="386" y="262.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#CFE8EE">Next.js</text>
+  </g>
+
+  <g transform="translate(446 34)">
+      <g stroke="#5EC4D6" stroke-width="1.6" class="flow">
+        <line x1="60" y1="60" x2="16" y2="16"/><line x1="60" y1="60" x2="104" y2="16"/>
+        <line x1="60" y1="60" x2="16" y2="104"/><line x1="60" y1="60" x2="104" y2="104"/>
+      </g>
+      <g fill="#0B2540" stroke="#5EC4D6" stroke-width="2">
+        <circle cx="16" cy="16" r="9"/><circle cx="104" cy="16" r="9"/>
+        <circle cx="16" cy="104" r="9"/><circle cx="104" cy="104" r="9"/>
+      </g>
+      <circle cx="60" cy="60" r="14" fill="#E07B39"/>
+  </g>
+  <g>
+    <circle cx="556" cy="290" r="4" fill="#E07B39" class="pulse"/>
+    <text x="544" y="294" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="2" fill="#8A99AB">IN DEVELOPMENT</text>
+  </g>
+</svg>

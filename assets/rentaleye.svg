@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320" role="img" aria-label="RentalEye">
+  <style>
+    .pulse { animation: pulse 2.2s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .3; } }
+    .bar { transform-box: fill-box; transform-origin: bottom; animation: grow 2.4s ease-in-out infinite; }
+    .b2 { animation-delay: .3s; } .b3 { animation-delay: .6s; } .b4 { animation-delay: .9s; }
+    @keyframes grow { 0%, 100% { transform: scaleY(1); } 50% { transform: scaleY(.8); } }
+    .ring { transform-box: fill-box; transform-origin: center; animation: ripple 3s ease-in-out infinite; }
+    .r2 { animation-delay: .4s; } .r3 { animation-delay: .8s; }
+    @keyframes ripple { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.08); } }
+    .route { animation: dash 2s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -24; } }
+    .flow line { stroke-dasharray: 3 5; animation: dash 1.6s linear infinite; }
+</style>
+  <rect width="600" height="320" rx="18" fill="#0B2540"/>
+  <rect x="0.5" y="0.5" width="599" height="319" rx="18" fill="none" stroke="#5EC4D6" stroke-opacity=".18"/>
+
+  <g>
+    <text x="40" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2.5" fill="#5EC4D6">ENTERPRISE · DATA PLATFORM</text>
+    <text x="40" y="106" font-family="Georgia, 'Times New Roman', Times, serif" font-size="44" fill="#F5F1EA">RentalEye<tspan fill="#E07B39">.</tspan></text>
+  </g>
+  <text x="40" y="150" font-family="Georgia, 'Times New Roman', Times, serif" font-size="18" fill="#B9C4D0"><tspan x="40" dy="0">Competitive intelligence for the automotive</tspan>
+<tspan x="40" dy="26">rental market. Millions of data points</tspan>
+<tspan x="40" dy="26">scored and served every day.</tspan></text>
+  <g>
+    <rect x="40" y="244" width="38" height="28" rx="14" fill="none" stroke="#5EC4D6" stroke-opacity=".45"/>
+    <text x="59" y="262.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#CFE8EE">Go</text>
+    <rect x="86" y="244" width="77" height="28" rx="14" fill="none" stroke="#5EC4D6" stroke-opacity=".45"/>
+    <text x="124" y="262.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#CFE8EE">Next.js</text>
+    <rect x="170" y="244" width="100" height="28" rx="14" fill="none" stroke="#5EC4D6" stroke-opacity=".45"/>
+    <text x="220" y="262.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#CFE8EE">PostgreSQL</text>
+    <rect x="278" y="244" width="77" height="28" rx="14" fill="none" stroke="#5EC4D6" stroke-opacity=".45"/>
+    <text x="316" y="262.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#CFE8EE">GraphQL</text>
+    <rect x="363" y="244" width="61" height="28" rx="14" fill="none" stroke="#5EC4D6" stroke-opacity=".45"/>
+    <text x="393" y="262.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#CFE8EE">Azure</text>
+  </g>
+
+  <g transform="translate(446 34)">
+      <g fill="#5EC4D6">
+        <rect x="8" y="70" width="16" height="42" rx="3" class="bar b1"/>
+        <rect x="36" y="48" width="16" height="64" rx="3" class="bar b2"/>
+        <rect x="64" y="30" width="16" height="82" rx="3" class="bar b3"/>
+        <rect x="92" y="10" width="16" height="102" rx="3" fill="#E07B39" class="bar b4"/>
+      </g>
+  </g>
+  <g>
+    <circle cx="556" cy="290" r="4" fill="#E07B39" class="pulse"/>
+    <text x="544" y="294" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="2" fill="#8A99AB">IN PRODUCTION</text>
+  </g>
+</svg>
