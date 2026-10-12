@@ -14,12 +14,12 @@ jobs:
     env:
       STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Require owner token
         if: env.STATS_TOKEN == ''
         run: |
           echo "::warning::STATS_TOKEN secret is not set; skipping so private contributions are not dropped."
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         if: env.STATS_TOKEN != ''
         with:
           python-version: "3.12"

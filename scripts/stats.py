@@ -11,6 +11,7 @@ import json
 import math
 import os
 import sys
+import urllib.error
 import urllib.request
 from collections import Counter
 from datetime import date, datetime, timedelta, timezone
@@ -45,8 +46,13 @@ def gql(query, **variables):
         data=json.dumps({"query": query, "variables": variables}).encode(),
         headers={"Authorization": f"bearer {TOKEN}", "Content-Type": "application/json"},
     )
-    with urllib.request.urlopen(req) as res:
-        payload = json.load(res)
+    try:
+        with urllib.request.urlopen(req) as res:
+            payload = json.load(res)
+    except urllib.error.HTTPError as err:
+        if err.code == 401:
+            raise SystemExit("GitHub rejected the token (401). Regenerate it and update the STATS_TOKEN secret.")
+        raise
     if payload.get("errors"):
         raise SystemExit(payload["errors"])
     return payload["data"]
