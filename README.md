@@ -41,10 +41,14 @@
 
 <br />
 
-### Activity
+### Achievements & activity
+
+<p align="center"><img src="./assets/trophies.svg" width="98.5%" alt="Achievements" /></p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ATICHOF&background=0B2540&border_radius=18&hide_border=true&ring=E07B39&fire=E07B39&currStreakNum=F5F1EA&sideNums=F5F1EA&currStreakLabel=5EC4D6&sideLabels=5EC4D6&dates=8A99AB&stroke=1E3A5F" width="600" alt="GitHub streak" />
+  <img src="./assets/stats.svg" width="49%" alt="Contribution stats" />
+  <img src="./assets/languages.svg" width="49%" alt="Top languages" />
+  <img src="./assets/activity.svg" width="98.5%" alt="Monthly contributions" />
 </p>
 
 <br />

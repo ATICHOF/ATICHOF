@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Achievements">
+  <style>
+  .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  .serif { font-family: Georgia, 'Times New Roman', Times, serif; }
+  .pulse { animation: pulse 2.2s ease-in-out infinite; }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .35; } }
+
+  .medal { animation: float 3.4s ease-in-out infinite; }
+  @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+  .shine { animation: shine 4.5s ease-in-out infinite; }
+  @keyframes shine { 0%, 60% { transform: skewX(-20deg) translateX(0); } 100% { transform: skewX(-20deg) translateX(190px); } }
+</style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#123456"/><stop offset="1" stop-color="#0B2540"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#5EC4D6" fill-opacity=".07"/>
+    </pattern>
+    <radialGradient id="glow" cx="1" cy="0" r="1">
+      <stop offset="0" stop-color="#5EC4D6" stop-opacity=".14"/><stop offset="1" stop-color="#5EC4D6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="t0" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E3A574"/><stop offset="1" stop-color="#A8643A"/>
+    </linearGradient>
+    <radialGradient id="f0" cx=".5" cy=".35" r=".7">
+      <stop offset="0" stop-color="#E3A574" stop-opacity=".28"/><stop offset="1" stop-color="#A8643A" stop-opacity=".04"/>
+    </radialGradient>
+    <linearGradient id="t1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E4EAF0"/><stop offset="1" stop-color="#8E9BA8"/>
+    </linearGradient>
+    <radialGradient id="f1" cx=".5" cy=".35" r=".7">
+      <stop offset="0" stop-color="#E4EAF0" stop-opacity=".28"/><stop offset="1" stop-color="#8E9BA8" stop-opacity=".04"/>
+    </radialGradient>
+    <linearGradient id="t2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6D27A"/><stop offset="1" stop-color="#C9952B"/>
+    </linearGradient>
+    <radialGradient id="f2" cx=".5" cy=".35" r=".7">
+      <stop offset="0" stop-color="#F6D27A" stop-opacity=".28"/><stop offset="1" stop-color="#C9952B" stop-opacity=".04"/>
+    </radialGradient>
+    <linearGradient id="t3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#A7EEF7"/><stop offset="1" stop-color="#3BA8BC"/>
+    </linearGradient>
+    <radialGradient id="f3" cx=".5" cy=".35" r=".7">
+      <stop offset="0" stop-color="#A7EEF7" stop-opacity=".28"/><stop offset="1" stop-color="#3BA8BC" stop-opacity=".04"/>
+    </radialGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="hex"><polygon points="0,-34 29.4,-17 29.4,17 0,34 -29.4,17 -29.4,-17"/></clipPath>
+  </defs>
+  <rect width="1200" height="340" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="18" fill="url(#dots)"/>
+  <rect width="1200" height="340" rx="18" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="18" fill="none" stroke="#5EC4D6" stroke-opacity=".2"/>
+  <text x="40" y="44" class="mono" font-size="12" letter-spacing="2.5" fill="#5EC4D6">ACHIEVEMENTS</text>
+  <text x="1160" y="44" text-anchor="end" class="mono" font-size="11" letter-spacing="2" fill="#8A99AB">RING = PROGRESS TO NEXT TIER</text>
+  <g transform="translate(120.0 0)">
+    <g transform="translate(0 120)">
+      <circle r="46" fill="none" stroke="#5EC4D6" stroke-opacity=".1" stroke-width="4"/>
+      <circle r="46" fill="none" stroke="url(#t2)" stroke-width="4" stroke-linecap="round" stroke-dasharray="33.8 289.0" transform="rotate(-90)"/>
+      <g class="medal" style="animation-delay:0.0s">
+        <polygon points="0,-34 29.4,-17 29.4,17 0,34 -29.4,17 -29.4,-17" fill="url(#f2)" stroke="url(#t2)" stroke-width="2"/>
+        <g fill="url(#t2)" stroke="url(#t2)"><path d="M0 -15 L4.5 -4.5 L15 0 L4.5 4.5 L0 15 L-4.5 4.5 L-15 0 L-4.5 -4.5 Z"/></g>
+        <g clip-path="url(#hex)"><rect x="-90" y="-40" width="34" height="80" fill="url(#shine)" transform="skewX(-20)" class="shine" style="animation-delay:0.00s"/></g>
+      </g>
+    </g>
+    <text y="206" text-anchor="middle" class="serif" font-size="28" fill="#F5F1EA">2,351</text>
+    <text y="226" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="1.5" fill="#8A99AB">ALL-TIME</text>
+    <text y="256" text-anchor="middle" class="mono" font-size="11.5" letter-spacing="2.5" fill="#5EC4D6">CONTRIBUTOR</text>
+    <rect x="-38" y="268" width="76" height="20" rx="10" fill="url(#f2)" stroke="url(#t2)" stroke-width="1"/>
+    <text y="282" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="2" fill="#F6D27A">GOLD</text>
+    <text y="308" text-anchor="middle" class="mono" font-size="8.5" letter-spacing="1.5" fill="#8A99AB" fill-opacity=".8">NEXT · 5,000</text>
+  </g>
+  <g transform="translate(280.0 0)">
+    <g transform="translate(0 120)">
+      <circle r="46" fill="none" stroke="#5EC4D6" stroke-opacity=".1" stroke-width="4"/>
+      <circle r="46" fill="none" stroke="url(#t2)" stroke-width="4" stroke-linecap="round" stroke-dasharray="65.0 289.0" transform="rotate(-90)"/>
+      <g class="medal" style="animation-delay:0.3s">
+        <polygon points="0,-34 29.4,-17 29.4,17 0,34 -29.4,17 -29.4,-17" fill="url(#f2)" stroke="url(#t2)" stroke-width="2"/>
+        <g fill="url(#t2)" stroke="url(#t2)"><circle r="6.5"/><rect x="-17" y="-1.75" width="9" height="3.5" rx="1.5"/><rect x="8" y="-1.75" width="9" height="3.5" rx="1.5"/></g>
+        <g clip-path="url(#hex)"><rect x="-90" y="-40" width="34" height="80" fill="url(#shine)" transform="skewX(-20)" class="shine" style="animation-delay:0.45s"/></g>
+      </g>
+    </g>
+    <text y="206" text-anchor="middle" class="serif" font-size="28" fill="#F5F1EA">880</text>
+    <text y="226" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="1.5" fill="#8A99AB">COMMITS / YR</text>
+    <text y="256" text-anchor="middle" class="mono" font-size="11.5" letter-spacing="2.5" fill="#5EC4D6">COMMITTER</text>
+    <rect x="-38" y="268" width="76" height="20" rx="10" fill="url(#f2)" stroke="url(#t2)" stroke-width="1"/>
+    <text y="282" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="2" fill="#F6D27A">GOLD</text>
+    <text y="308" text-anchor="middle" class="mono" font-size="8.5" letter-spacing="1.5" fill="#8A99AB" fill-opacity=".8">NEXT · 1,500</text>
+  </g>
+  <g transform="translate(440.0 0)">
+    <g transform="translate(0 120)">
+      <circle r="46" fill="none" stroke="#5EC4D6" stroke-opacity=".1" stroke-width="4"/>
+      <circle r="46" fill="none" stroke="url(#t2)" stroke-width="4" stroke-linecap="round" stroke-dasharray="84.4 289.0" transform="rotate(-90)"/>
+      <g class="medal" style="animation-delay:0.6s">
+        <polygon points="0,-34 29.4,-17 29.4,17 0,34 -29.4,17 -29.4,-17" fill="url(#f2)" stroke="url(#t2)" stroke-width="2"/>
+        <g fill="url(#t2)" stroke="url(#t2)"><circle cx="-7" cy="-11" r="4.5"/><circle cx="-7" cy="11" r="4.5"/><circle cx="9" cy="0" r="4.5"/><rect x="-8.75" y="-7" width="3.5" height="14"/><path d="M-7 -6 Q-7 0 5 0" fill="none" stroke-width="3.5"/></g>
+        <g clip-path="url(#hex)"><rect x="-90" y="-40" width="34" height="80" fill="url(#shine)" transform="skewX(-20)" class="shine" style="animation-delay:0.90s"/></g>
+      </g>
+    </g>
+    <text y="206" text-anchor="middle" class="serif" font-size="28" fill="#F5F1EA">223</text>
+    <text y="226" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="1.5" fill="#8A99AB">PRS / YR</text>
+    <text y="256" text-anchor="middle" class="mono" font-size="11.5" letter-spacing="2.5" fill="#5EC4D6">SHIPPER</text>
+    <rect x="-38" y="268" width="76" height="20" rx="10" fill="url(#f2)" stroke="url(#t2)" stroke-width="1"/>
+    <text y="282" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="2" fill="#F6D27A">GOLD</text>
+    <text y="308" text-anchor="middle" class="mono" font-size="8.5" letter-spacing="1.5" fill="#8A99AB" fill-opacity=".8">NEXT · 400</text>
+  </g>
+  <g transform="translate(600.0 0)">
+    <g transform="translate(0 120)">
+      <circle r="46" fill="none" stroke="#5EC4D6" stroke-opacity=".1" stroke-width="4"/>
+      <circle r="46" fill="none" stroke="url(#t0)" stroke-width="4" stroke-linecap="round" stroke-dasharray="123.9 289.0" transform="rotate(-90)"/>
+      <g class="medal" style="animation-delay:0.9s">
+        <polygon points="0,-34 29.4,-17 29.4,17 0,34 -29.4,17 -29.4,-17" fill="url(#f0)" stroke="url(#t0)" stroke-width="2"/>
+        <g fill="url(#t0)" stroke="url(#t0)"><path d="M0 -16 C7 -6 12 -2 12 5 A12 12 0 0 1 -12 5 C-12 -1 -6 -3 -4 -10 C-2 -4 0 -3 2 -1 C3 -7 1 -12 0 -16 Z"/></g>
+        <g clip-path="url(#hex)"><rect x="-90" y="-40" width="34" height="80" fill="url(#shine)" transform="skewX(-20)" class="shine" style="animation-delay:1.35s"/></g>
+      </g>
+    </g>
+    <text y="206" text-anchor="middle" class="serif" font-size="28" fill="#F5F1EA">10d</text>
+    <text y="226" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="1.5" fill="#8A99AB">BEST STREAK</text>
+    <text y="256" text-anchor="middle" class="mono" font-size="11.5" letter-spacing="2.5" fill="#5EC4D6">ON FIRE</text>
+    <rect x="-38" y="268" width="76" height="20" rx="10" fill="url(#f0)" stroke="url(#t0)" stroke-width="1"/>
+    <text y="282" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="2" fill="#E3A574">BRONZE</text>
+    <text y="308" text-anchor="middle" class="mono" font-size="8.5" letter-spacing="1.5" fill="#8A99AB" fill-opacity=".8">NEXT · 14d</text>
+  </g>
+  <g transform="translate(760.0 0)">
+    <g transform="translate(0 120)">
+      <circle r="46" fill="none" stroke="#5EC4D6" stroke-opacity=".1" stroke-width="4"/>
+      <circle r="46" fill="none" stroke="url(#t0)" stroke-width="4" stroke-linecap="round" stroke-dasharray="260.1 289.0" transform="rotate(-90)"/>
+      <g class="medal" style="animation-delay:1.2s">
+        <polygon points="0,-34 29.4,-17 29.4,17 0,34 -29.4,17 -29.4,-17" fill="url(#f0)" stroke="url(#t0)" stroke-width="2"/>
+        <g fill="url(#t0)" stroke="url(#t0)"><rect x="-13" y="-10" width="26" height="23" rx="3.5" fill="none" stroke-width="3"/><rect x="-13" y="-10" width="26" height="7" rx="2"/><rect x="-7" y="-16" width="3.5" height="8" rx="1.5"/><rect x="3.5" y="-16" width="3.5" height="8" rx="1.5"/></g>
+        <g clip-path="url(#hex)"><rect x="-90" y="-40" width="34" height="80" fill="url(#shine)" transform="skewX(-20)" class="shine" style="animation-delay:1.80s"/></g>
+      </g>
+    </g>
+    <text y="206" text-anchor="middle" class="serif" font-size="28" fill="#F5F1EA">95</text>
+    <text y="226" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="1.5" fill="#8A99AB">ACTIVE DAYS / YR</text>
+    <text y="256" text-anchor="middle" class="mono" font-size="11.5" letter-spacing="2.5" fill="#5EC4D6">CONSISTENT</text>
+    <rect x="-38" y="268" width="76" height="20" rx="10" fill="url(#f0)" stroke="url(#t0)" stroke-width="1"/>
+    <text y="282" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="2" fill="#E3A574">BRONZE</text>
+    <text y="308" text-anchor="middle" class="mono" font-size="8.5" letter-spacing="1.5" fill="#8A99AB" fill-opacity=".8">NEXT · 100</text>
+  </g>
+  <g transform="translate(920.0 0)">
+    <g transform="translate(0 120)">
+      <circle r="46" fill="none" stroke="#5EC4D6" stroke-opacity=".1" stroke-width="4"/>
+      <circle r="46" fill="none" stroke="url(#t2)" stroke-width="4" stroke-linecap="round" stroke-dasharray="96.3 289.0" transform="rotate(-90)"/>
+      <g class="medal" style="animation-delay:1.5s">
+        <polygon points="0,-34 29.4,-17 29.4,17 0,34 -29.4,17 -29.4,-17" fill="url(#f2)" stroke="url(#t2)" stroke-width="2"/>
+        <g fill="url(#t2)" stroke="url(#t2)"><circle r="13" fill="none" stroke-width="3"/><path d="M0 -7 V0 L5 4" fill="none" stroke-width="3" stroke-linecap="round"/></g>
+        <g clip-path="url(#hex)"><rect x="-90" y="-40" width="34" height="80" fill="url(#shine)" transform="skewX(-20)" class="shine" style="animation-delay:2.25s"/></g>
+      </g>
+    </g>
+    <text y="206" text-anchor="middle" class="serif" font-size="28" fill="#F5F1EA">6y</text>
+    <text y="226" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="1.5" fill="#8A99AB">ON GITHUB</text>
+    <text y="256" text-anchor="middle" class="mono" font-size="11.5" letter-spacing="2.5" fill="#5EC4D6">VETERAN</text>
+    <rect x="-38" y="268" width="76" height="20" rx="10" fill="url(#f2)" stroke="url(#t2)" stroke-width="1"/>
+    <text y="282" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="2" fill="#F6D27A">GOLD</text>
+    <text y="308" text-anchor="middle" class="mono" font-size="8.5" letter-spacing="1.5" fill="#8A99AB" fill-opacity=".8">NEXT · 8y</text>
+  </g>
+  <g transform="translate(1080.0 0)">
+    <g transform="translate(0 120)">
+      <circle r="46" fill="none" stroke="#5EC4D6" stroke-opacity=".1" stroke-width="4"/>
+      <circle r="46" fill="none" stroke="url(#t1)" stroke-width="4" stroke-linecap="round" stroke-dasharray="5.8 289.0" transform="rotate(-90)"/>
+      <g class="medal" style="animation-delay:1.8s">
+        <polygon points="0,-34 29.4,-17 29.4,17 0,34 -29.4,17 -29.4,-17" fill="url(#f1)" stroke="url(#t1)" stroke-width="2"/>
+        <g fill="url(#t1)" stroke="url(#t1)"><path d="M-6 -10 L-15 0 L-6 10 M6 -10 L15 0 L6 10" fill="none" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+        <g clip-path="url(#hex)"><rect x="-90" y="-40" width="34" height="80" fill="url(#shine)" transform="skewX(-20)" class="shine" style="animation-delay:2.70s"/></g>
+      </g>
+    </g>
+    <text y="206" text-anchor="middle" class="serif" font-size="28" fill="#F5F1EA">4</text>
+    <text y="226" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="1.5" fill="#8A99AB">LANGUAGES</text>
+    <text y="256" text-anchor="middle" class="mono" font-size="11.5" letter-spacing="2.5" fill="#5EC4D6">POLYGLOT</text>
+    <rect x="-38" y="268" width="76" height="20" rx="10" fill="url(#f1)" stroke="url(#t1)" stroke-width="1"/>
+    <text y="282" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="2" fill="#E4EAF0">SILVER</text>
+    <text y="308" text-anchor="middle" class="mono" font-size="8.5" letter-spacing="1.5" fill="#8A99AB" fill-opacity=".8">NEXT · 6</text>
+  </g>
+</svg>
