@@ -32,7 +32,7 @@
   <rect width="1200" height="350" rx="18" fill="url(#glow)"/>
   <rect x="0.5" y="0.5" width="1199" height="349" rx="18" fill="none" stroke="#5EC4D6" stroke-opacity=".2"/>
   <text x="64" y="52" class="mono" font-size="12" letter-spacing="2.5" fill="#5EC4D6">LAST 12 MONTHS</text>
-  <text x="1136" y="52" text-anchor="end" class="mono" font-size="12" letter-spacing="2" fill="#8A99AB">1,234 CONTRIBUTIONS<tspan fill="#5EC4D6" dx="14">▲ 110% VS PRIOR YEAR</tspan></text>
+  <text x="1136" y="52" text-anchor="end" class="mono" font-size="12" letter-spacing="2" fill="#8A99AB">1,252 CONTRIBUTIONS<tspan fill="#5EC4D6" dx="14">▲ 113% VS PRIOR YEAR</tspan></text>
   <line x1="96" y1="278.0" x2="1136" y2="278.0" stroke="#5EC4D6" stroke-opacity="0.25"/>
   <text x="82" y="282.0" text-anchor="end" class="mono" font-size="10" fill="#8A99AB">0</text>
   <line x1="96" y1="198.0" x2="1136" y2="198.0" stroke="#5EC4D6" stroke-opacity="0.08"/>
@@ -75,10 +75,10 @@
   <rect x="984.3" y="242.6" width="43.3" height="35.4" rx="6" fill="url(#bar)" class="bar" style="animation-delay:1.20s"/>
   <text x="1006.0" y="232.6" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">75</text>
   <text x="1006.0" y="304" text-anchor="middle" class="mono" font-size="11" letter-spacing="1.5" fill="#8A99AB">SEP</text>
-  <rect x="1071.0" y="144.4" width="43.3" height="133.6" rx="6" fill="url(#bar)" class="bar" style="animation-delay:1.32s"/>
-  <text x="1092.7" y="134.4" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">283</text>
+  <rect x="1071.0" y="135.9" width="43.3" height="142.1" rx="6" fill="url(#bar)" class="bar" style="animation-delay:1.32s"/>
+  <text x="1092.7" y="125.9" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">301</text>
   <text x="1092.7" y="304" text-anchor="middle" class="mono" font-size="11" letter-spacing="1.5" fill="#8A99AB">OCT</text>
-  <line x1="96" y1="229.5" x2="1136" y2="229.5" stroke="#E07B39" stroke-opacity=".7" stroke-width="1.5" class="avg"/>
-  <rect x="102" y="205.5" width="118" height="18" rx="9" fill="#0B2540" stroke="#E07B39" stroke-opacity=".5"/>
-  <text x="161" y="218.0" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="1.5" fill="#E07B39">AVG 103 / MONTH</text>
+  <line x1="96" y1="228.8" x2="1136" y2="228.8" stroke="#E07B39" stroke-opacity=".7" stroke-width="1.5" class="avg"/>
+  <rect x="102" y="204.8" width="118" height="18" rx="9" fill="#0B2540" stroke="#E07B39" stroke-opacity=".5"/>
+  <text x="161" y="217.3" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="1.5" fill="#E07B39">AVG 104 / MONTH</text>
 </svg>

@@ -58,14 +58,14 @@
   <g transform="translate(120.0 0)">
     <g transform="translate(0 120)">
       <circle r="46" fill="none" stroke="#5EC4D6" stroke-opacity=".1" stroke-width="4"/>
-      <circle r="46" fill="none" stroke="url(#t2)" stroke-width="4" stroke-linecap="round" stroke-dasharray="45.7 289.0" transform="rotate(-90)"/>
+      <circle r="46" fill="none" stroke="url(#t2)" stroke-width="4" stroke-linecap="round" stroke-dasharray="47.4 289.0" transform="rotate(-90)"/>
       <g class="medal" style="animation-delay:0.0s">
         <polygon points="0,-34 29.4,-17 29.4,17 0,34 -29.4,17 -29.4,-17" fill="url(#f2)" stroke="url(#t2)" stroke-width="2"/>
         <g fill="url(#t2)" stroke="url(#t2)"><path d="M0 -15 L4.5 -4.5 L15 0 L4.5 4.5 L0 15 L-4.5 4.5 L-15 0 L-4.5 -4.5 Z"/></g>
         <g clip-path="url(#hex)"><rect x="-90" y="-40" width="34" height="80" fill="url(#shine)" transform="skewX(-20)" class="shine" style="animation-delay:0.00s"/></g>
       </g>
     </g>
-    <text y="206" text-anchor="middle" class="serif" font-size="28" fill="#F5F1EA">2,474</text>
+    <text y="206" text-anchor="middle" class="serif" font-size="28" fill="#F5F1EA">2,492</text>
     <text y="226" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="1.5" fill="#8A99AB">ALL-TIME</text>
     <text y="256" text-anchor="middle" class="mono" font-size="11.5" letter-spacing="2.5" fill="#5EC4D6">CONTRIBUTOR</text>
     <rect x="-38" y="268" width="76" height="20" rx="10" fill="url(#f2)" stroke="url(#t2)" stroke-width="1"/>
@@ -75,14 +75,14 @@
   <g transform="translate(280.0 0)">
     <g transform="translate(0 120)">
       <circle r="46" fill="none" stroke="#5EC4D6" stroke-opacity=".1" stroke-width="4"/>
-      <circle r="46" fill="none" stroke="url(#t2)" stroke-width="4" stroke-linecap="round" stroke-dasharray="97.2 289.0" transform="rotate(-90)"/>
+      <circle r="46" fill="none" stroke="url(#t2)" stroke-width="4" stroke-linecap="round" stroke-dasharray="101.9 289.0" transform="rotate(-90)"/>
       <g class="medal" style="animation-delay:0.3s">
         <polygon points="0,-34 29.4,-17 29.4,17 0,34 -29.4,17 -29.4,-17" fill="url(#f2)" stroke="url(#t2)" stroke-width="2"/>
         <g fill="url(#t2)" stroke="url(#t2)"><circle r="6.5"/><rect x="-17" y="-1.75" width="9" height="3.5" rx="1.5"/><rect x="8" y="-1.75" width="9" height="3.5" rx="1.5"/></g>
         <g clip-path="url(#hex)"><rect x="-90" y="-40" width="34" height="80" fill="url(#shine)" transform="skewX(-20)" class="shine" style="animation-delay:0.45s"/></g>
       </g>
     </g>
-    <text y="206" text-anchor="middle" class="serif" font-size="28" fill="#F5F1EA">969</text>
+    <text y="206" text-anchor="middle" class="serif" font-size="28" fill="#F5F1EA">982</text>
     <text y="226" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="1.5" fill="#8A99AB">COMMITS / YR</text>
     <text y="256" text-anchor="middle" class="mono" font-size="11.5" letter-spacing="2.5" fill="#5EC4D6">COMMITTER</text>
     <rect x="-38" y="268" width="76" height="20" rx="10" fill="url(#f2)" stroke="url(#t2)" stroke-width="1"/>
@@ -92,14 +92,14 @@
   <g transform="translate(440.0 0)">
     <g transform="translate(0 120)">
       <circle r="46" fill="none" stroke="#5EC4D6" stroke-opacity=".1" stroke-width="4"/>
-      <circle r="46" fill="none" stroke="url(#t2)" stroke-width="4" stroke-linecap="round" stroke-dasharray="123.7 289.0" transform="rotate(-90)"/>
+      <circle r="46" fill="none" stroke="url(#t2)" stroke-width="4" stroke-linecap="round" stroke-dasharray="129.5 289.0" transform="rotate(-90)"/>
       <g class="medal" style="animation-delay:0.6s">
         <polygon points="0,-34 29.4,-17 29.4,17 0,34 -29.4,17 -29.4,-17" fill="url(#f2)" stroke="url(#t2)" stroke-width="2"/>
         <g fill="url(#t2)" stroke="url(#t2)"><circle cx="-7" cy="-11" r="4.5"/><circle cx="-7" cy="11" r="4.5"/><circle cx="9" cy="0" r="4.5"/><rect x="-8.75" y="-7" width="3.5" height="14"/><path d="M-7 -6 Q-7 0 5 0" fill="none" stroke-width="3.5"/></g>
         <g clip-path="url(#hex)"><rect x="-90" y="-40" width="34" height="80" fill="url(#shine)" transform="skewX(-20)" class="shine" style="animation-delay:0.90s"/></g>
       </g>
     </g>
-    <text y="206" text-anchor="middle" class="serif" font-size="28" fill="#F5F1EA">257</text>
+    <text y="206" text-anchor="middle" class="serif" font-size="28" fill="#F5F1EA">262</text>
     <text y="226" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="1.5" fill="#8A99AB">PRS / YR</text>
     <text y="256" text-anchor="middle" class="mono" font-size="11.5" letter-spacing="2.5" fill="#5EC4D6">SHIPPER</text>
     <rect x="-38" y="268" width="76" height="20" rx="10" fill="url(#f2)" stroke="url(#t2)" stroke-width="1"/>
