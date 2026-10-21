@@ -32,53 +32,53 @@
   <rect width="1200" height="350" rx="18" fill="url(#glow)"/>
   <rect x="0.5" y="0.5" width="1199" height="349" rx="18" fill="none" stroke="#5EC4D6" stroke-opacity=".2"/>
   <text x="64" y="52" class="mono" font-size="12" letter-spacing="2.5" fill="#5EC4D6">LAST 12 MONTHS</text>
-  <text x="1136" y="52" text-anchor="end" class="mono" font-size="12" letter-spacing="2" fill="#8A99AB">1,280 CONTRIBUTIONS<tspan fill="#5EC4D6" dx="14">▲ 118% VS PRIOR YEAR</tspan></text>
+  <text x="1136" y="52" text-anchor="end" class="mono" font-size="12" letter-spacing="2" fill="#8A99AB">1,303 CONTRIBUTIONS<tspan fill="#5EC4D6" dx="14">▲ 122% VS PRIOR YEAR</tspan></text>
   <line x1="96" y1="278.0" x2="1136" y2="278.0" stroke="#5EC4D6" stroke-opacity="0.25"/>
   <text x="82" y="282.0" text-anchor="end" class="mono" font-size="10" fill="#8A99AB">0</text>
   <line x1="96" y1="198.0" x2="1136" y2="198.0" stroke="#5EC4D6" stroke-opacity="0.08"/>
-  <text x="82" y="202.0" text-anchor="end" class="mono" font-size="10" fill="#8A99AB">170</text>
+  <text x="82" y="202.0" text-anchor="end" class="mono" font-size="10" fill="#8A99AB">176</text>
   <line x1="96" y1="118.0" x2="1136" y2="118.0" stroke="#5EC4D6" stroke-opacity="0.08"/>
-  <text x="82" y="122.0" text-anchor="end" class="mono" font-size="10" fill="#8A99AB">339</text>
-  <rect x="117.7" y="273.3" width="43.3" height="4.7" rx="6" fill="url(#bar)" class="bar" style="animation-delay:0.00s"/>
-  <text x="139.3" y="263.3" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">10</text>
+  <text x="82" y="122.0" text-anchor="end" class="mono" font-size="10" fill="#8A99AB">352</text>
+  <rect x="117.7" y="273.5" width="43.3" height="4.5" rx="6" fill="url(#bar)" class="bar" style="animation-delay:0.00s"/>
+  <text x="139.3" y="263.5" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">10</text>
   <text x="139.3" y="304" text-anchor="middle" class="mono" font-size="11" letter-spacing="1.5" fill="#8A99AB">NOV</text>
-  <rect x="204.3" y="268.1" width="43.3" height="9.9" rx="6" fill="url(#bar)" class="bar" style="animation-delay:0.12s"/>
-  <text x="226.0" y="258.1" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">21</text>
+  <rect x="204.3" y="268.5" width="43.3" height="9.5" rx="6" fill="url(#bar)" class="bar" style="animation-delay:0.12s"/>
+  <text x="226.0" y="258.5" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">21</text>
   <text x="226.0" y="304" text-anchor="middle" class="mono" font-size="11" letter-spacing="1.5" fill="#8A99AB">DEC</text>
-  <rect x="291.0" y="264.8" width="43.3" height="13.2" rx="6" fill="url(#bar)" class="bar" style="animation-delay:0.24s"/>
-  <text x="312.7" y="254.8" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">28</text>
+  <rect x="291.0" y="265.3" width="43.3" height="12.7" rx="6" fill="url(#bar)" class="bar" style="animation-delay:0.24s"/>
+  <text x="312.7" y="255.3" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">28</text>
   <text x="312.7" y="304" text-anchor="middle" class="mono" font-size="11" letter-spacing="1.5" fill="#8A99AB">JAN</text>
-  <rect x="377.7" y="273.8" width="43.3" height="4.2" rx="6" fill="url(#bar)" class="bar" style="animation-delay:0.36s"/>
-  <text x="399.3" y="263.8" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">9</text>
+  <rect x="377.7" y="273.9" width="43.3" height="4.1" rx="6" fill="url(#bar)" class="bar" style="animation-delay:0.36s"/>
+  <text x="399.3" y="263.9" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">9</text>
   <text x="399.3" y="304" text-anchor="middle" class="mono" font-size="11" letter-spacing="1.5" fill="#8A99AB">FEB</text>
-  <rect x="464.3" y="265.3" width="43.3" height="12.7" rx="6" fill="url(#bar)" class="bar" style="animation-delay:0.48s"/>
-  <text x="486.0" y="255.3" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">27</text>
+  <rect x="464.3" y="265.7" width="43.3" height="12.3" rx="6" fill="url(#bar)" class="bar" style="animation-delay:0.48s"/>
+  <text x="486.0" y="255.7" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">27</text>
   <text x="486.0" y="304" text-anchor="middle" class="mono" font-size="11" letter-spacing="1.5" fill="#8A99AB">MAR</text>
-  <rect x="551.0" y="160.0" width="43.3" height="118.0" rx="6" fill="url(#bar)" class="bar" style="animation-delay:0.60s"/>
-  <text x="572.7" y="150.0" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">250</text>
+  <rect x="551.0" y="164.4" width="43.3" height="113.6" rx="6" fill="url(#bar)" class="bar" style="animation-delay:0.60s"/>
+  <text x="572.7" y="154.4" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">250</text>
   <text x="572.7" y="304" text-anchor="middle" class="mono" font-size="11" letter-spacing="1.5" fill="#8A99AB">APR</text>
-  <rect x="637.7" y="189.7" width="43.3" height="88.3" rx="6" fill="url(#bar)" class="bar" style="animation-delay:0.72s"/>
-  <text x="659.3" y="179.7" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">187</text>
+  <rect x="637.7" y="193.0" width="43.3" height="85.0" rx="6" fill="url(#bar)" class="bar" style="animation-delay:0.72s"/>
+  <text x="659.3" y="183.0" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">187</text>
   <text x="659.3" y="304" text-anchor="middle" class="mono" font-size="11" letter-spacing="1.5" fill="#8A99AB">MAY</text>
-  <rect x="724.3" y="118.0" width="43.3" height="160.0" rx="6" fill="url(#best)" class="bar" style="animation-delay:0.84s"/>
-  <g>
-    <rect x="684.0" y="78.0" width="124" height="26" rx="13" fill="#E07B39" fill-opacity=".15" stroke="#E07B39" stroke-opacity=".6"/>
-    <text x="746.0" y="95.5" text-anchor="middle" class="mono" font-size="11" letter-spacing="1.5" fill="#F5F1EA">BEST · 339</text>
-  </g>
-  <text x="746.0" y="304" text-anchor="middle" class="mono" font-size="11" letter-spacing="1.5" fill="#F5F1EA">JUN</text>
+  <rect x="724.3" y="123.9" width="43.3" height="154.1" rx="6" fill="url(#bar)" class="bar" style="animation-delay:0.84s"/>
+  <text x="746.0" y="113.9" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">339</text>
+  <text x="746.0" y="304" text-anchor="middle" class="mono" font-size="11" letter-spacing="1.5" fill="#8A99AB">JUN</text>
   <rect x="811.0" y="274.0" width="43.3" height="4.0" rx="6" fill="url(#bar)" class="bar" style="animation-delay:0.96s"/>
   <text x="832.7" y="264.0" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">5</text>
   <text x="832.7" y="304" text-anchor="middle" class="mono" font-size="11" letter-spacing="1.5" fill="#8A99AB">JUL</text>
   <rect x="897.7" y="274.0" width="43.3" height="4.0" rx="6" fill="url(#bar)" class="bar" style="animation-delay:1.08s"/>
   <text x="919.3" y="264.0" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">0</text>
   <text x="919.3" y="304" text-anchor="middle" class="mono" font-size="11" letter-spacing="1.5" fill="#8A99AB">AUG</text>
-  <rect x="984.3" y="242.6" width="43.3" height="35.4" rx="6" fill="url(#bar)" class="bar" style="animation-delay:1.20s"/>
-  <text x="1006.0" y="232.6" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">75</text>
+  <rect x="984.3" y="243.9" width="43.3" height="34.1" rx="6" fill="url(#bar)" class="bar" style="animation-delay:1.20s"/>
+  <text x="1006.0" y="233.9" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">75</text>
   <text x="1006.0" y="304" text-anchor="middle" class="mono" font-size="11" letter-spacing="1.5" fill="#8A99AB">SEP</text>
-  <rect x="1071.0" y="122.7" width="43.3" height="155.3" rx="6" fill="url(#bar)" class="bar" style="animation-delay:1.32s"/>
-  <text x="1092.7" y="112.7" text-anchor="middle" class="mono" font-size="11" fill="#8A99AB">329</text>
-  <text x="1092.7" y="304" text-anchor="middle" class="mono" font-size="11" letter-spacing="1.5" fill="#8A99AB">OCT</text>
-  <line x1="96" y1="227.7" x2="1136" y2="227.7" stroke="#E07B39" stroke-opacity=".7" stroke-width="1.5" class="avg"/>
-  <rect x="102" y="203.7" width="118" height="18" rx="9" fill="#0B2540" stroke="#E07B39" stroke-opacity=".5"/>
-  <text x="161" y="216.2" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="1.5" fill="#E07B39">AVG 107 / MONTH</text>
+  <rect x="1071.0" y="118.0" width="43.3" height="160.0" rx="6" fill="url(#best)" class="bar" style="animation-delay:1.32s"/>
+  <g>
+    <rect x="1030.7" y="78.0" width="124" height="26" rx="13" fill="#E07B39" fill-opacity=".15" stroke="#E07B39" stroke-opacity=".6"/>
+    <text x="1092.7" y="95.5" text-anchor="middle" class="mono" font-size="11" letter-spacing="1.5" fill="#F5F1EA">BEST · 352</text>
+  </g>
+  <text x="1092.7" y="304" text-anchor="middle" class="mono" font-size="11" letter-spacing="1.5" fill="#F5F1EA">OCT</text>
+  <line x1="96" y1="228.6" x2="1136" y2="228.6" stroke="#E07B39" stroke-opacity=".7" stroke-width="1.5" class="avg"/>
+  <rect x="102" y="204.6" width="118" height="18" rx="9" fill="#0B2540" stroke="#E07B39" stroke-opacity=".5"/>
+  <text x="161" y="217.1" text-anchor="middle" class="mono" font-size="9.5" letter-spacing="1.5" fill="#E07B39">AVG 109 / MONTH</text>
 </svg>
