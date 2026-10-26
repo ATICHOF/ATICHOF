@@ -46,7 +46,7 @@
   <text x="406" y="217" class="serif" font-size="22" fill="#F5F1EA">98<tspan class="mono" font-size="10" letter-spacing="1.5" fill="#8A99AB" dx="6"></tspan></text>
   <rect x="40" y="238" width="164" height="56" rx="10" fill="#F5F1EA" fill-opacity=".03" stroke="#5EC4D6" stroke-opacity=".14"/>
   <text x="54" y="260" class="mono" font-size="9.5" letter-spacing="1.5" fill="#8A99AB">CURRENT STREAK</text>
-  <text x="54" y="283" class="serif" font-size="22" fill="#F5F1EA">11<tspan class="mono" font-size="10" letter-spacing="1.5" fill="#8A99AB" dx="6">DAYS</tspan></text>
+  <text x="54" y="283" class="serif" font-size="22" fill="#F5F1EA">0<tspan class="mono" font-size="10" letter-spacing="1.5" fill="#8A99AB" dx="6">DAYS</tspan></text>
   <rect x="216" y="238" width="164" height="56" rx="10" fill="#F5F1EA" fill-opacity=".03" stroke="#5EC4D6" stroke-opacity=".14"/>
   <text x="230" y="260" class="mono" font-size="9.5" letter-spacing="1.5" fill="#8A99AB">LONGEST STREAK</text>
   <text x="230" y="283" class="serif" font-size="22" fill="#F5F1EA">11<tspan class="mono" font-size="10" letter-spacing="1.5" fill="#8A99AB" dx="6">DAYS</tspan></text>
