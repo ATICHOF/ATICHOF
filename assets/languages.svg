@@ -26,9 +26,9 @@
   <text x="40" y="48" class="mono" font-size="12" letter-spacing="2.5" fill="#5EC4D6">LANGUAGES</text>
   <text x="560" y="48" text-anchor="end" class="mono" font-size="11" letter-spacing="2" fill="#8A99AB">BY COMMITS</text>
   <circle cx="150" cy="186" r="74" fill="none" stroke="#5EC4D6" stroke-opacity=".08" stroke-width="18"/>
-  <path d="M151.61 112.02 A74 74 0 1 1 113.79 121.47" fill="none" stroke="#5EC4D6" stroke-width="18" stroke-linecap="butt"/>
-  <path d="M116.64 119.95 A74 74 0 0 1 130.09 114.73" fill="none" stroke="#E07B39" stroke-width="18" stroke-linecap="butt"/>
-  <path d="M133.22 113.93 A74 74 0 0 1 146.68 112.07" fill="none" stroke="#F5F1EA" stroke-width="18" stroke-linecap="butt"/>
+  <path d="M151.61 112.02 A74 74 0 1 1 113.81 121.46" fill="none" stroke="#5EC4D6" stroke-width="18" stroke-linecap="butt"/>
+  <path d="M116.66 119.94 A74 74 0 0 1 130.10 114.72" fill="none" stroke="#E07B39" stroke-width="18" stroke-linecap="butt"/>
+  <path d="M133.23 113.92 A74 74 0 0 1 146.68 112.07" fill="none" stroke="#F5F1EA" stroke-width="18" stroke-linecap="butt"/>
   <circle cx="150" cy="186" r="94" fill="none" stroke="#5EC4D6" stroke-opacity=".15" stroke-dasharray="2 6"/>
   <g class="orbit"><circle cx="150" cy="92" r="4" fill="#E07B39"/></g>
   <text x="150" y="194" text-anchor="middle" class="serif" font-size="40" fill="#F5F1EA">4</text>
